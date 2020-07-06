@@ -44,7 +44,7 @@ function getHeros(){
 
 
 function goToFavList(){
-    window.location.href = "file:///C:/Users/KISHAN/Desktop/webDevelopment/Toggle%20Mode/Coding%20Courses/fav-list.html";
+    window.location.href = "fav-list.html";
 }
 
 //invoked when card is clicked

@@ -29,7 +29,7 @@ function cardClicked(e){
 function goToBio(heroObj){
 	console.log(heroObj);
   localStorage.setItem('hObj',JSON.stringify(heroObj));
-	window.location.href = "file:///C:/Users/KISHAN/Desktop/webDevelopment/Toggle%20Mode/Coding%20Courses/hero-bio.html";
+	window.location.href = "hero-bio.html";
 }
 
 //delete hero from fav list
