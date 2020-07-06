@@ -151,7 +151,7 @@ function showToast(text){
   x.innerHTML=text;
   setTimeout(function(){
     x.classList.remove("show");
-  },500);
+  },1000);
 }
 
 
