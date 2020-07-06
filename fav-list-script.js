@@ -100,7 +100,7 @@ function renderList(list){
   x.innerHTML=text;
   setTimeout(function(){
     x.classList.remove("show");
-  },3000);
+  },1000);
 }
 
 
