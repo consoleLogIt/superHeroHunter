@@ -1,0 +1,51 @@
+                     
+.container{
+	padding: 20px;
+}
+
+.profile-body {
+    padding: 20px;
+    background: #f7f7f7;
+}
+
+ .profile-bio {
+    background: #fff;
+    position: relative;
+    padding: 15px 10px 5px 15px;
+}
+
+ .profile-bio a {
+    left: 50%;
+    bottom: 20px;
+    margin: -62px;
+    text-align: center;
+    position: absolute;
+}
+
+ .profile-bio h2 {
+    margin-top: 0;
+    font-weight: 200;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #585f69;
+    margin-top: 5px;
+    text-shadow: none;
+    font-weight: normal;
+    font-family:  sans-serif;
+}
+h2 {
+    font-size: 24px;
+    line-height: 33px;
+}
+
+p, li, li a {
+    color: #555;
+}   
+span{
+	margin-left: 30px; 
+} 
+.col-md-7{
+	padding: 25px;
+}                                                        
+		
