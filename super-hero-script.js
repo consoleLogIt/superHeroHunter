@@ -44,7 +44,7 @@ function getHeros(){
 
 
 function goToFavList(){
-    window.location.href = "https://consolelogit.github.io/superHeroHunter/fav-list.html";
+    window.location.href = "https://consolelogit.github.io/superHeroHunter/fav-list";
 }
 
 //invoked when card is clicked
