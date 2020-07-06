@@ -29,7 +29,7 @@ function cardClicked(e){
 function goToBio(heroObj){
 	console.log(heroObj);
   localStorage.setItem('hObj',JSON.stringify(heroObj));
-	window.location.href = "hero-bio.html";
+	window.location.href = "https://consolelogit.github.io/superHeroHunter/hero-bio.html";
 }
 
 //delete hero from fav list

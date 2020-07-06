@@ -44,7 +44,7 @@ function getHeros(){
 
 
 function goToFavList(){
-    window.location.href = "fav-list.html";
+    window.location.href = "https://consolelogit.github.io/superHeroHunter/fav-list.html";
 }
 
 //invoked when card is clicked
@@ -66,7 +66,7 @@ function cardClicked(e){
 function goToBio(heroObj){
 
     localStorage.setItem('hObj',JSON.stringify(heroObj));
-	window.location.href = "file:///C:/Users/KISHAN/Desktop/webDevelopment/Toggle%20Mode/Coding%20Courses/hero-bio.html";
+	window.location.href = "https://consolelogit.github.io/superHeroHunter/hero-bio.html";
 
 }
 
