@@ -1,7 +1,8 @@
 //selectors
 let display = document.querySelector('#list-display');
-let list = JSON.parse(localStorage.getItem('favlist'));
-
+let list = [];
+let temp = JSON.parse(localStorage.getItem('favlist'));
+list.concat(temp);
 
 //call render list
 renderList(list);
